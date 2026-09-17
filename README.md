@@ -1,4 +1,4 @@
-# Hi, I'm Qiro 👋
+# Hi, I'm Kirkt 👋
 
 ### BSIT Student | Aspiring Software Developer
 
