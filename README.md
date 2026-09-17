@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🤖 About Me:
 I'm a BSIT student interested in software development, web technologies, databases, and AI. I'm currently learning and building projects to improve my programming and software engineering skills.
 
 ## 🌐 Socials:
