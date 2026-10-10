@@ -12,7 +12,7 @@
 
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=cr4zykrt" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcr4zykrt&query=%24.public_repos&label=Public%20Repos&color=blue" alt="Public Repositories" />
   <img src="https://img.shields.io/github/followers/cr4zykrt?label=Followers&style=flat&logo=github" alt="Followers" />
 </div>
 
