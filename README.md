@@ -66,7 +66,7 @@ I'm currently learning and building projects to sharpen my programming and softw
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contributions
 
 <div align="center">
   <picture>
