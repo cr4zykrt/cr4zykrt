@@ -61,7 +61,7 @@ I'm currently learning and building projects to sharpen my programming and softw
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cr4zykrt&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://ghchart.rshah.org/2c5364/cr4zykrt" alt="Contribution Graph" width="95%" />
 </div>
 
 ---
