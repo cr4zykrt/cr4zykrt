@@ -39,7 +39,7 @@ I'm currently learning and building projects to sharpen my programming and softw
 
 **Frameworks & Tools**
 
-<img src="https://skillicons.dev/icons?i=react,dotnet,npm,apache,figma,git,github,vscode&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=react,dotnet,npm,figma,git,github,vscode&theme=dark" alt="Tools" />
 
 **Databases & Backend**
 
