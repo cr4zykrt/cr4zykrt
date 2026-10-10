@@ -10,10 +10,12 @@
   </a>
 </div>
 
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cr4zykrt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=cr4zykrt&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/cr4zykrt?label=Followers&style=flat&logo=github" alt="Followers" />
 </div>
+
 
 ---
 
