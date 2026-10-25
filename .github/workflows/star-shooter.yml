@@ -1,0 +1,43 @@
+name: Star shooter
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate-star-shooter.mjs
+      - .github/workflows/star-shooter.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate SVG
+        run: node scripts/generate-star-shooter.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          OUT: dist/star-shooter.svg
+
+      - name: Publish to output branch
+        run: |
+          cp dist/star-shooter.svg "$RUNNER_TEMP/star-shooter.svg"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf . > /dev/null 2>&1 || true
+          cp "$RUNNER_TEMP/star-shooter.svg" star-shooter.svg
+          git add star-shooter.svg
+          git commit -m "Update star shooter"
+          git push -f origin output
