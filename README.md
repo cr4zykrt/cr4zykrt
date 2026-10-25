@@ -1,99 +1,126 @@
-<!-- Animated header banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Kirkt&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSIT%20Student%20%7C%20Aspiring%20Software%20Developer&descSize=20&descAlignY=58" alt="Header" />
-</div>
 
-<!-- Typing animation -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+%26+Desktop+Developer;Building+with+React%2C+C%23+and+Python;Exploring+Databases+%26+AI;Always+learning%2C+always+shipping" alt="Typing SVG" />
-  </a>
-</div>
-
-
-<div align="center">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcr4zykrt&query=%24.public_repos&label=Public%20Repos&color=blue" alt="Public Repositories" />
-  <img src="https://img.shields.io/github/followers/cr4zykrt?label=Followers&style=flat&logo=github" alt="Followers" />
-</div>
-
-
----
-
-## 👨‍💻 About Me
-
-I'm a **BSIT student** passionate about **software development, web technologies, databases, and AI**.
-I'm currently learning and building projects to sharpen my programming and software engineering skills.
-
-- 🔭 Currently working on: *web, desktop & AI projects*
-- 🌱 Currently learning: *.NET, React, and database design*
-- 🎯 Goal: become a full-stack software developer
-- 💬 Ask me about: *React, C#, Python, JavaScript, SQL*
-
----
-
-## 🛠️ Tech Stack
+<!-- 🎃 HALLOWEEN PROFILE: KIRKT -->
 
 <div align="center">
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090509,40:240814,75:661020,100:ff7518&height=230&section=header&text=KIRKT&fontSize=75&fontColor=ff7518&animation=fadeIn&fontAlignY=37&desc=THE%20DEVELOPER%20IN%20THE%20DARK&descSize=17&descColor=eeeeee&descAlignY=59" width="100%" alt="Halloween Header"/>
 
-<img src="https://skillicons.dev/icons?i=js,python,cs,html,css&theme=dark" alt="Languages" />
+<br/>
 
-**Frameworks & Tools**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF7518&center=true&vCenter=true&width=650&lines=Welcome+to+my+haunted+repository...;Web+%26+Desktop+Developer;Building+with+React%2C+C%23+and+Python;Summoning+code+after+dark;Eat.+Sleep.+Code.+Repeat...+Forever." alt="Creepy Typing Animation"/>
 
-<img src="https://skillicons.dev/icons?i=react,dotnet,npm,figma,git,github,vscode&theme=dark" alt="Tools" />
+<br/><br/>
 
-**Databases & Backend**
+<img src="https://img.shields.io/badge/STATUS-ONLINE..._FOR_NOW-ff3333?style=for-the-badge&labelColor=100810" alt="Status"/>
+<img src="https://img.shields.io/badge/SEASON-HALLOWEEN-ff7518?style=for-the-badge&labelColor=100810" alt="Halloween"/>
+<img src="https://img.shields.io/badge/BUGS-ARE_WATCHING-8b0000?style=for-the-badge&labelColor=100810" alt="Bugs"/>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" alt="Databases" />
+<br/><br/>
+
+*"Every line of code awakens something."*
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🕯️ `01 // WHO HAUNTS THIS PROFILE?`
+
+> **Identity detected: Kirkt**
+>
+> A BSIT student exploring the dark side of software development.
+> Currently experimenting with web applications, desktop software,
+> databases, and AI. Some bugs are features. Some features are curses.
+
+- 🎃 **Currently building:** Web, desktop & AI projects
+- 🕸️ **Currently learning:** .NET, React & database design
+- 🩸 **Final objective:** Become a full-stack software developer
+- 👁️ **Known spells:** React, C#, Python, JavaScript & SQL
+
+---
+
+## 💀 `02 // WEAPONS OF CHOICE`
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cr4zykrt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr4zykrt&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cr4zykrt&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+**⚔️ Programming Languages**
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/2c5364/cr4zykrt" alt="Contribution Graph" width="95%" />
+<img src="https://skillicons.dev/icons?i=js,python,cs,html,css&theme=dark" alt="Programming Languages"/>
+
+<br/>
+
+**🧪 Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,dotnet,npm,figma,git,github,vscode&theme=dark" alt="Frameworks and Tools"/>
+
+<br/>
+
+**🧟 Databases & Backend**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase&theme=dark" alt="Databases"/>
+
 </div>
 
 ---
 
-## 🐍 Contributions
+## 🩸 `03 // THE CURSED STATISTICS`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cr4zykrt/cr4zykrt/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cr4zykrt/cr4zykrt/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/cr4zykrt/cr4zykrt/output/github-snake.svg" />
-  </picture>
+
+<img src="https://github-readme-stats.vercel.app/api?username=cr4zykrt&show_icons=true&theme=dark&bg_color=100810&title_color=ff7518&icon_color=ff3333&text_color=e8dce8&border_color=5c1526&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr4zykrt&layout=compact&theme=dark&bg_color=100810&title_color=ff7518&text_color=e8dce8&border_color=5c1526&langs_count=8" height="180" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=cr4zykrt&theme=dark&background=100810&ring=ff7518&fire=ff3333&currStreakLabel=ff7518&sideLabels=e8dce8&currStreakNum=ffffff&sideNums=ffffff&dates=9b879b&hide_border=false&border=5c1526" alt="Cursed Coding Streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/ff7518/cr4zykrt" width="95%" alt="Halloween Contribution Calendar"/>
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🎃 `04 // THE PUMPKIN IS HUNGRY`
 
 <div align="center">
-  <a href="https://www.instagram.com/cr4zykrt/?__pwa=1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/kael.052805"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+
+**THE EYES ARE WATCHING. THE PUMPKIN IS HUNTING.**
+
+<br/>
+
+<!-- Replace this image path after adding your custom animation file -->
+<img src="https://raw.githubusercontent.com/cr4zykrt/cr4zykrt/main/halloween-pumpkin.svg" width="100%" alt="A hungry Halloween pumpkin chasing and eating eyeball-shaped GitHub contributions"/>
+
+<br/>
+
+*Every eyeball represents a contribution. Every bite leaves the grid a little emptier.*
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</div>
+## 🦇 `05 // CONTACT THE LIVING`
 
-<!-- Animated footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" alt="Footer" />
+
+<a href="https://www.instagram.com/cr4zykrt/">
+<img src="https://img.shields.io/badge/INSTAGRAM-INVITE_THE_DARKNESS-ff3333?style=for-the-badge&logo=instagram&logoColor=white&labelColor=100810" alt="Instagram"/>
+</a>
+
+<a href="https://www.facebook.com/kael.052805">
+<img src="https://img.shields.io/badge/FACEBOOK-SEND_A_SIGNAL-ff7518?style=for-the-badge&logo=facebook&logoColor=white&labelColor=100810" alt="Facebook"/>
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Developer Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7518,40:661020,100:090509&height=130&section=footer" width="100%" alt="Halloween Footer"/>
+
+**🎃 THANKS FOR ENTERING. THERE IS NO EXIT COMMIT. 💀**
+
 </div>
