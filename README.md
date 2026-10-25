@@ -7,8 +7,7 @@
 <br/><br/>
 <img src="assets/sec-about.svg" width="100%" alt="No. 01 — Who's on the bill"/>
 <br/>
-Kirkt is a BSIT student building web applications, desktop software, databases and AI projects.
-Every line of code is practice for one goal: becoming a full-stack software developer.
+<img src="assets/about.svg" width="100%" alt="Kirkt presents: web, desktop, databases and AI. A BSIT student with one goal in sight: becoming a full-stack software developer."/>
 <br/>
 <img src="assets/posters.svg" width="100%" alt="Now building web, desktop and AI. Now learning .NET, React and database design. The goal: full-stack developer."/>
 <br/>
@@ -27,7 +26,7 @@ Every line of code is practice for one goal: becoming a full-stack software deve
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=cr4zykrt&background=F2E6C9&ring=C8442F&fire=E0A526&currStreakLabel=C8442F&sideLabels=1F3140&currStreakNum=1F3140&sideNums=1F3140&dates=5B4A3A&border=1F3140" alt="Contribution streak"/>
 <br/><br/>
-<img src="https://ghchart.rshah.org/C8442F/cr4zykrt" width="95%" alt="Contribution calendar"/>
+<img src="https://raw.githubusercontent.com/cr4zykrt/cr4zykrt/output/star-shooter.svg" width="100%" alt="Shooting gallery: a pistol fires each of my contributions as a star"/>
 <br/><br/>
 <img src="assets/sec-contact.svg" width="100%" alt="No. 04 — Send a telegram"/>
 <br/>
