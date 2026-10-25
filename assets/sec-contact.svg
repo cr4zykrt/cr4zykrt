@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 70" width="900" height="70" role="img" aria-label="SEND A TELEGRAM">
-<defs><clipPath id="s"><rect x="154" y="7" width="739" height="56"/></clipPath></defs>
-<rect x="3" y="3" width="894" height="64" fill="#F2E6C9" stroke="#1F3140" stroke-width="4"/>
-<rect x="3" y="3" width="150" height="64" fill="#C8442F"/>
-<text x="78" y="46" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="30" letter-spacing="3" fill="#F2E6C9">NO. 04</text>
-<text x="180" y="47" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="32" letter-spacing="4" fill="#1F3140">SEND A TELEGRAM</text>
-<g clip-path="url(#s)"><rect x="34" y="57" width="120" height="5" fill="#E0A526"><animate attributeName="x" values="34;894" dur="5s" repeatCount="indefinite"/></rect></g>
-<text x="860" y="44" font-size="24" fill="#2F7F86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></text><text x="825" y="40" font-size="16" fill="#C8442F" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1s" repeatCount="indefinite"/></text>
-</svg>
