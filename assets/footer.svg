@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 80" width="900" height="80" role="img" aria-label="Thanks for visiting">
+<defs><clipPath id="f"><rect x="0" y="0" width="900" height="80"/></clipPath></defs>
+<rect width="900" height="80" fill="#1F3140"/>
+<rect y="8" width="900" height="3" fill="#E0A526"/><rect y="69" width="900" height="3" fill="#E0A526"/>
+<g clip-path="url(#f)"><g><animateTransform attributeName="transform" type="translate" from="0 0" to="-900 0" dur="18s" repeatCount="indefinite"/>
+<text x="0" y="52" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="26" fill="#F2E6C9" textLength="900" lengthAdjust="spacing">THANKS FOR VISITING ★ KEEP SHIPPING ★ SEE YOU IN THE NEXT COMMIT ★</text>
+<text x="900" y="52" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="26" fill="#F2E6C9" textLength="900" lengthAdjust="spacing">THANKS FOR VISITING ★ KEEP SHIPPING ★ SEE YOU IN THE NEXT COMMIT ★</text></g></g>
+</svg>
