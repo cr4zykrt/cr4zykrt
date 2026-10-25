@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" aria-label="Three retro posters: now building web, desktop and AI; now learning .NET, React and database design; the goal, full-stack developer"><g transform="translate(30 25) rotate(-2 130 190)">
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" begin="0s" repeatCount="indefinite"/>
+<rect x="9" y="9" width="260" height="380" fill="#1F3140" opacity="0.25"/>
+<rect x="0" y="0" width="260" height="380" fill="#F2E6C9" stroke="#1F3140" stroke-width="4"/>
+<rect x="10" y="10" width="240" height="44" fill="#C8442F"/>
+<text x="130" y="43" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="24" letter-spacing="4" fill="#F2E6C9">NOW BUILDING</text>
+<clipPath id="a1"><rect x="10" y="64" width="240" height="200"/></clipPath>
+<g clip-path="url(#a1)"><rect x="10" y="64" width="240" height="200" fill="#2F7F86"/>
+<g transform="translate(130 150)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="40s" repeatCount="indefinite"/><polygon points="0,0 160.0,0.0 147.8,61.2" fill="#3E949B"/><polygon points="0,0 113.1,113.1 61.2,147.8" fill="#3E949B"/><polygon points="0,0 0.0,160.0 -61.2,147.8" fill="#3E949B"/><polygon points="0,0 -113.1,113.1 -147.8,61.2" fill="#3E949B"/><polygon points="0,0 -160.0,0.0 -147.8,-61.2" fill="#3E949B"/><polygon points="0,0 -113.1,-113.1 -61.2,-147.8" fill="#3E949B"/><polygon points="0,0 -0.0,-160.0 61.2,-147.8" fill="#3E949B"/><polygon points="0,0 113.1,-113.1 147.8,-61.2" fill="#3E949B"/></g>
+<circle r="48" fill="#E0A526"/><circle r="38" fill="none" stroke="#C8442F" stroke-width="3"/></g>
+<path d="M10 264 L10 215 Q70 170 130 218 Q190 182 250 210 L250 264 Z" fill="#1F3140"/>
+<path d="M10 264 L10 238 Q80 215 140 242 Q200 225 250 240 L250 264 Z" fill="#C8442F"/></g>
+<rect x="10" y="64" width="240" height="200" fill="none" stroke="#1F3140" stroke-width="3"/>
+<text x="130" y="305" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="25" letter-spacing="2" fill="#1F3140">WEB · DESKTOP · AI</text>
+<text x="130" y="332" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#C8442F">Projects after dark</text>
+<rect x="10" y="344" width="240" height="2" fill="#1F3140"/>
+<text x="130" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="3" fill="#1F3140">EST. BSIT</text>
+</g></g><g transform="translate(320 25) rotate(1.5 130 190)">
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" begin="1s" repeatCount="indefinite"/>
+<rect x="9" y="9" width="260" height="380" fill="#1F3140" opacity="0.25"/>
+<rect x="0" y="0" width="260" height="380" fill="#F2E6C9" stroke="#1F3140" stroke-width="4"/>
+<rect x="10" y="10" width="240" height="44" fill="#C8442F"/>
+<text x="130" y="43" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="24" letter-spacing="4" fill="#F2E6C9">NOW LEARNING</text>
+<clipPath id="a2"><rect x="10" y="64" width="240" height="200"/></clipPath>
+<g clip-path="url(#a2)"><rect x="10" y="64" width="240" height="200" fill="#1F3140"/><g><animateTransform attributeName="transform" type="translate" values="-8 0;8 0;-8 0" dur="4s" begin="0.0s" repeatCount="indefinite"/><rect x="45" y="92" width="170" height="40" rx="6" fill="#C8442F" stroke="#F2E6C9" stroke-width="3"/><text x="130" y="120" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="22" letter-spacing="3" fill="#F2E6C9">REACT</text></g><g><animateTransform attributeName="transform" type="translate" values="-8 0;8 0;-8 0" dur="4s" begin="0.7s" repeatCount="indefinite"/><rect x="45" y="142" width="170" height="40" rx="6" fill="#E0A526" stroke="#F2E6C9" stroke-width="3"/><text x="130" y="170" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="22" letter-spacing="3" fill="#1F3140">.NET</text></g><g><animateTransform attributeName="transform" type="translate" values="-8 0;8 0;-8 0" dur="4s" begin="1.4s" repeatCount="indefinite"/><rect x="45" y="192" width="170" height="40" rx="6" fill="#2F7F86" stroke="#F2E6C9" stroke-width="3"/><text x="130" y="220" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="22" letter-spacing="3" fill="#F2E6C9">SQL</text></g><text x="32" y="92" font-size="14" fill="#E0A526" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></text><text x="228" y="250" font-size="14" fill="#E0A526" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1s" repeatCount="indefinite"/></text></g>
+<rect x="10" y="64" width="240" height="200" fill="none" stroke="#1F3140" stroke-width="3"/>
+<text x="130" y="305" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="40" letter-spacing="2" fill="#1F3140">LEVEL UP</text>
+<text x="130" y="332" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#C8442F">.NET · React · Database design</text>
+<rect x="10" y="344" width="240" height="2" fill="#1F3140"/>
+<text x="130" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="3" fill="#1F3140">STUDY HARD</text>
+</g></g><g transform="translate(610 25) rotate(-1 130 190)">
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="5s" begin="2s" repeatCount="indefinite"/>
+<rect x="9" y="9" width="260" height="380" fill="#1F3140" opacity="0.25"/>
+<rect x="0" y="0" width="260" height="380" fill="#F2E6C9" stroke="#1F3140" stroke-width="4"/>
+<rect x="10" y="10" width="240" height="44" fill="#C8442F"/>
+<text x="130" y="43" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="24" letter-spacing="4" fill="#F2E6C9">THE GOAL</text>
+<clipPath id="a3"><rect x="10" y="64" width="240" height="200"/></clipPath>
+<g clip-path="url(#a3)"><rect x="10" y="64" width="240" height="200" fill="#C8442F"/>
+<text x="40" y="100" font-size="16" fill="#F2E6C9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0s" repeatCount="indefinite"/></text><text x="215" y="90" font-size="12" fill="#F2E6C9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></text><text x="200" y="230" font-size="14" fill="#E0A526" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="1.4s" repeatCount="indefinite"/></text><text x="35" y="200" font-size="12" fill="#F2E6C9" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">★<animate attributeName="opacity" values="1;0.2;1" dur="2.4s" begin="2s" repeatCount="indefinite"/></text>
+<circle cx="55" cy="235" r="16" fill="#2F7F86" stroke="#F2E6C9" stroke-width="2"/>
+<g transform="translate(130 150)"><g><animateTransform attributeName="transform" type="translate" values="0 0;0 -10;0 0" dur="3s" repeatCount="indefinite"/>
+<g transform="translate(0 24)"><g><animateTransform attributeName="transform" type="scale" values="1 1;1 1.35;1 1" dur="0.5s" repeatCount="indefinite"/>
+<polygon points="-12,0 12,0 0,44" fill="#E0A526"/><polygon points="-6,0 6,0 0,24" fill="#F2E6C9"/></g></g>
+<path d="M-24 4 L-46 36 L-24 22 Z" fill="#1F3140"/><path d="M24 4 L46 36 L24 22 Z" fill="#1F3140"/>
+<path d="M0 -62 Q26 -30 26 24 L-26 24 Q-26 -30 0 -62 Z" fill="#F2E6C9" stroke="#1F3140" stroke-width="3"/>
+<circle cy="-14" r="11" fill="#2F7F86" stroke="#1F3140" stroke-width="3"/>
+</g></g></g>
+<rect x="10" y="64" width="240" height="200" fill="none" stroke="#1F3140" stroke-width="3"/>
+<text x="130" y="305" text-anchor="middle" font-family="Impact, 'Arial Black', 'Haettenschweiler', sans-serif" font-size="40" letter-spacing="2" fill="#1F3140">FULL-STACK</text>
+<text x="130" y="332" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="14" fill="#C8442F">Software Developer</text>
+<rect x="10" y="344" width="240" height="2" fill="#1F3140"/>
+<text x="130" y="366" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="11" letter-spacing="3" fill="#1F3140">DESTINATION: SHIPPED</text>
+</g></g></svg>
